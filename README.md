@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**yojeero/yojeero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I`m Yojee   
+ 
+-- I like Coffee, Chill music and Walks.   
+-- I am more focused on frontend technologies, but also have experience with the latest back-end technologies. 
 
-Here are some ideas to get you started:
+Here are some of the projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--*VSCode*--   
+
+[Alpen theme](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.alpen) / 
+[Yojee theme](https://marketplace.visualstudio.com/items?itemName=Yoko-Luxelego.yojee)
+
+-- *Sublime Text*--   
+
+[Alpen color scheme](https://packagecontrol.io/packages/Alpen%20Color%20Scheme) / [Lotus color scheme](https://packagecontrol.io/packages/Lotus%20Color%20Scheme)
+
+-- *Social*--   
+
+[CreativeMarket](https://creativemarket.com/yojeero/) / [Dribbble](https://dribbble.com/yojeero/) / [Twitter](https://twitter.com/yojeero)
+
+Thanks ! 
