@@ -1,7 +1,7 @@
 
 👋 Hi, I`m Yojee   
  
--- I like Coffee, Chill music and Walks.   
+-- I like Coffee, Chillout music and Walks.   
 -- I am more focused on frontend technologies, but also have experience with the latest back-end technologies. 
 
 Here are some of the projects:
