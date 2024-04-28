@@ -14,7 +14,7 @@ Here are some of the projects:
 
 -- *Online Radio Players and Music Converter*   
 
-[Sono](https://github.com/yojeero/sono) / [Onky](https://github.com/yojeero/onky) / [OGG aoTuV](https://github.com/yojeero/OGG-converter)
+[Sono](https://github.com/yojeero/sono) / [SonoDuo](https://github.com/yojeero/sonoduo) / [OGG aoTuV](https://github.com/yojeero/OGG-converter)
 
 -- *Social*   
 
